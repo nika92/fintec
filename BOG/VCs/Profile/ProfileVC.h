@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ProfileVC.h
 //  BOG
 //
 //  Created by Mariam Gagua on 9/15/18.
@@ -8,8 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+NS_ASSUME_NONNULL_BEGIN
 
+@interface ProfileVC : UIViewController
 
 @end
 
+NS_ASSUME_NONNULL_END
